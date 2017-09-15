@@ -1,0 +1,5 @@
+lambda-local -l indexUpdate.js -h handler -e event.json
+
+käyttäjähommia : https://www.udemy.com/comprehensive-alexa-skill-development-course/learn/v4/t/lecture/6680216?start=0
+windows koneeseen tarvii asentaa aws.cli ohjelma
+AKIAIASEX4PXBOMGN3MA
